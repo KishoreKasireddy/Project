@@ -47,9 +47,7 @@ Refer to the [GM65 Barcode Reader Module User Manual](https://uelectronics.com/w
 
 Feel free to fork this repository and submit pull requests. Contributions are welcome!
 
-## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
 
