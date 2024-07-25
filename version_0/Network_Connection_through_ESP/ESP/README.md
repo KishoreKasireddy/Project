@@ -42,9 +42,6 @@ If the ESP8266 cannot connect to a previously saved Wi-Fi network, it will start
 
 Feel free to fork this repository and submit pull requests. Contributions are welcome!
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
 
